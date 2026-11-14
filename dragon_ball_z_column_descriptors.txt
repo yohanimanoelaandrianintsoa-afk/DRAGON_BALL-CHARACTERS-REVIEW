@@ -1,0 +1,10 @@
+Column Descriptors:
+
+name: Character's full name as shown in the series
+ki: Base power level/fighting strength of the character
+maxKi: Maximum power level achievable by the character
+race: Character's species or racial background (e.g., Saiyan, Human, Namekian)
+gender: Character's gender identity
+description: Detailed character background and storyline information
+image: URL to character's official image
+affiliation: Character's primary group allegiance or association
